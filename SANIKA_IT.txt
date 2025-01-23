@@ -4,3 +4,5 @@ Atharva School of Business
 Enter VS CODE changes
 
 Remote trainer changes
+
+Changes as per feature branch
