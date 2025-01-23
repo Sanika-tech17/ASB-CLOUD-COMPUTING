@@ -2,3 +2,5 @@ Remote Changes added to the file
 lOCAL CHANGES
 Atharva School of Business 
 Enter VS CODE changes
+
+Remote trainer changes
