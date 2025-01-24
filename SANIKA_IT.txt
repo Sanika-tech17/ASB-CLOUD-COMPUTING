@@ -1,8 +1,56 @@
-Remote Changes added to the file
-lOCAL CHANGES
-Atharva School of Business 
-Enter VS CODE changes
+Download git and Launch the git bash
+Git bash
+-git version
+-git config --global user.email "something@email.com"
+-git config --global user.name "NAME"
+-cd Documents/Cloud-Computing
 
-Remote trainer changes
+Visit GitHub 
+Create Repository (Public, Private)
+Click on the option of code and copy the URL
 
-Main branch changes fron trainer VSCode
+Come back to Git bash
+-git clone <URLhttps://....>
+-cd RepositoryName 
+Manually in the file explorer add a certain file 
+-git status 
+-git add <name of the file>
+(options -git add . to add all the file)
+-git status
+-git commit -m "Some comment"
+-git push
+
+Visit the github and refresh
+
+Download VSCode
+Copy URL from the Github Repository
+Click on the option of source control 
+Choose the option of Clone Repository
+Choose some local folder
+Make changes to the file or add some files and save it
+In source control choose the '+' sign to add
+Click on commit button 
+Add commit message and close the file (CTRL+F4)
+Click on Sync
+
+Visit Github and refresh 
+Make some changes on the github itself
+
+Come back to VSCode
+And use sync button 
+
+View-> Terminal-> -git branch feature
+-git checkout feature
+Make some changes in the file and save it
+Add '+' and commit
+Publish branch
+
+Visit Github and refresh to check the branch
+Create Pull Request
+Click on 'Pull Request' option
+'New pull request'
+
+base->main compare->feature
+Create
+
+Home page -> Check for Pull Request and Approve it by clicking on 'Merge Pull Request'
